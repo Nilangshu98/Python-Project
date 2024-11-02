@@ -1,7 +1,7 @@
 # Python-Project
 author='Nilangshu Mondal',
     author_email='nilangshumondal4@gmail.com',
-    url='https://github.com/Nilangshu98',
+    url='https://github.com/Nilangshu98/Python-Project.git',
 
 Requirements
 ============
